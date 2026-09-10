@@ -9,8 +9,8 @@
 ╚══════╝╚══════╝╚═╝     ╚═╝    ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
                  ┌───────────────────────────────────────┐
-                 │   AGENTIC RECONNAISSANCE BENCHMARK   │
-                 │   LOCAL LLM SUITABILITY TEST SUITE   │
+                 │   AGENTIC RECONNAISSANCE BENCHMARK    │
+                 │   LOCAL LLM SUITABILITY TEST SUITE    │
                  └───────────────────────────────────────┘
 ```
 
